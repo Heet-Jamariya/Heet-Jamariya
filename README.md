@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Heet Jamariya! </h1>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst"/>
     <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
@@ -11,10 +9,10 @@
 ---
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>▸ <strong>Data Analyst</strong> specializing in the Python ecosystem (Pandas, NumPy, Scikit-learn).</li>
-  <li>▸ Experienced in transforming raw data into compelling visualizations and actionable reports.</li>
-  <li>▸ Current focus: Building and deploying end-to-end ML projects.</li>
-  <li>▸ Actively seeking to collaborate on challenging, data-centric projects.</li>
+  <li><strong>Data Analyst</strong> specializing in the Python ecosystem (Pandas, NumPy, Scikit-learn).</li>
+  <li>Experienced in transforming raw data into compelling visualizations and actionable reports.</li>
+  <li>Current focus: Building and deploying end-to-end ML projects.</li>
+  <li>Actively seeking to collaborate on challenging, data-centric projects.</li>
 </ul>
 
 ---
