@@ -28,26 +28,26 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=social&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=social&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-313840?style=social&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=social&logo=python&logoColor=white" alt="Seaborn"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-313840?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 ### Visualization Tools
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=social&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=social&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Apache_Superset-00A4A6?style=social&logo=apache%20superset&logoColor=white" alt="Apache Superset"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Apache_Superset-00A4A6?style=for-the-badge&logo=apache%20superset&logoColor=white" alt="Apache Superset"/>
 </p>
 
 ### Other Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=social&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=social&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ---
