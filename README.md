@@ -32,30 +32,36 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/seaborn/3776AB" alt="Seaborn" width="40" height="40"/> 
+    <img src="https://icon.icepanel.io/Technology/svg/Seaborn.svg" alt="Seaborn" width="40" height="40"/> 
   </a>
 </p>
 
 ### Visualization Tools
 <p align="center">
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="55" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/apachesuperset/00A4A6" alt="Apache Superset" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache Superset" width="40" height="40"/> 
   </a>
 </p>
 
@@ -64,11 +70,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> 
   </a>
 </p>
 
