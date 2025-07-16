@@ -57,12 +57,12 @@
 ### 🏏 [IPL 2022 Season Data Analysis](https://github.com/Heet-Jamariya/IPL_2022)
 > 📊 An in-depth EDA of the IPL 2022 season dataset, exploring team performance, toss impact, and key player statistics.
 > 🚀 **Tech Used:** Python, Pandas, Matplotlib, Seaborn.
-> 🌐 **View Project:** [IPL_2022 Project](https://github.com/Heet-Jamariya/IPL_2022)
+> 🌐 **View Project:** [IPL 2022 Project](https://github.com/Heet-Jamariya/IPL_2022)
 
-### 📈 [Project 2: Interactive Dashboard for [Data Source]]()
-> 📊 A dynamic dashboard built to visualize [mention data, e.g., "real-time stock prices" or "company KPIs"].
-> 🚀 **Tech Used:** Power BI / Tableau.
-> 🌐 **Live Demo:** [Link to your dashboard if public]()
+### 🍥 [Anime Data Extraction and Analysis](https://github.com/Heet-Jamariya/Anime-Project)
+> 📊 Data cleaning and EDA on an anime dataset, focusing on parsing text to extract and analyze episode counts, airing dates, and runtimes.
+> 🚀 **Tech Used:** Python, Pandas, NumPy.
+> 🌐 **View Project:** [Anime Project](https://github.com/Heet-Jamariya/Anime-Project)
 
 ---
 
