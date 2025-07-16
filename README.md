@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Heet Jamariya! </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst"/>
-    <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
-    <img src="https://img.shields.io/badge/Data_Scientist-F28C28?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Scientist"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Experience-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Science-Passionate-F28C28?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Python-Core_Skill-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Core Skill"/>
 </p>
 
 ---
