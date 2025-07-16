@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/heet-jamariya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="[YOUR_PORTFOLIO_URL_OR_GITHUB_IO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:[heetjamariya234@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:heetjamariya234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -53,16 +53,15 @@
 ---
 
 ## 📌 Featured Projects
-*Feel free to replace these examples with your actual projects!*
 
-### 🔥 [Project 1: Exploratory Data Analysis on [Dataset Name]]()
-> 📊 An in-depth analysis of the [mention dataset, e.g., "Global Superstore Sales"] dataset to uncover trends and insights.  
-> 🚀 **Tech Used:** Python, Pandas, Matplotlib, Seaborn.  
-> 🌐 **View Notebook:** [Link to your project repository or notebook]()
+### 🏏 [IPL 2022 Season Data Analysis](https://github.com/Heet-Jamariya/IPL_2022)
+> 📊 An in-depth EDA of the IPL 2022 season dataset, exploring team performance, toss impact, and key player statistics.
+> 🚀 **Tech Used:** Python, Pandas, Matplotlib, Seaborn.
+> 🌐 **View Project:** [IPL_2022 Project](https://github.com/Heet-Jamariya/IPL_2022)
 
 ### 📈 [Project 2: Interactive Dashboard for [Data Source]]()
-> 📊 A dynamic dashboard built to visualize [mention data, e.g., "real-time stock prices" or "company KPIs"].  
-> 🚀 **Tech Used:** Power BI / Tableau.  
+> 📊 A dynamic dashboard built to visualize [mention data, e.g., "real-time stock prices" or "company KPIs"].
+> 🚀 **Tech Used:** Power BI / Tableau.
 > 🌐 **Live Demo:** [Link to your dashboard if public]()
 
 ---
