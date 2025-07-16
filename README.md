@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Libraries
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=social&logo=numpy&logoColor=white" alt="Numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=social&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -37,14 +37,14 @@
 </p>
 
 ### Visualization Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=social&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=social&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Apache_Superset-00A4A6?style=social&logo=apache%20superset&logoColor=white" alt="Apache Superset"/>
 </p>
 
 ### Other Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=social&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=social&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
