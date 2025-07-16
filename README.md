@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst"/>
-  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
+    <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
+    <img src="https://img.shields.io/badge/Data_Scientist-F28C28?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Scientist"/>
 </p>
 
 <p align="center">
@@ -18,9 +19,9 @@
 ---
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/heet-jamariya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="[YOUR_PORTFOLIO_URL_OR_GITHUB_IO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:[heetjamariya234@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -68,12 +69,12 @@
 ---
 
 ## 💬 Let's Connect
-- Ask me about **Python for Data Analysis, Pandas, or Data Visualization**!
-- Reach me at **[YOUR_EMAIL@gmail.com]**
+- Ask me about Python, data manipulation, or how I approach solving problems with data.
+- Reach me at **heetjamariya234@gmail.com**
 
 ---
 
-### ✨ _"In God we trust, all others must bring data." – W. Edwards Deming_
+### ✨ _"Without data, you're just another person with an opinion." – W. Edwards Deming_
 
 ---
 
