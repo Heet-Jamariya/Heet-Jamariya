@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  🚀 **Data Analyst** | Passionate about turning complex data into actionable insights.
+  ▸ <strong>Data Analyst</strong> | Passionate about turning complex data into actionable insights.
   <br /> 
-  💡 Building projects with Python's data stack to solve real-world problems.
+  ▸ Building projects with Python's data stack to solve real-world problems.
   <br />
-  🎯 Currently mastering **advanced data visualization** and **machine learning** concepts.
+  ▸ Currently learning: <strong>Machine Learning</strong> and <strong>Data Manipulation</strong>.
   <br />
-  📈 Working on a project: **[Your Cool Project Name, e.g., "Sales Dashboard in Power BI"]**
+  ▸ Open to collaborating on data-driven projects.
 </p>
 
 ---
