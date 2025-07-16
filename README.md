@@ -29,55 +29,25 @@
 
 ### Programming & Libraries
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://icon.icepanel.io/Technology/svg/Seaborn.svg" alt="Seaborn" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-313840?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 ### Visualization Tools
 <p align="center">
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="55" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache Superset" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Apache_Superset-00A4A6?style=for-the-badge&logo=apache%20superset&logoColor=white" alt="Apache Superset"/>
 </p>
 
 ### Other Tools
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ---
