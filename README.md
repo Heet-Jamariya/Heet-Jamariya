@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Heet Jamariya! 👋</h1>
+<h1 align="center">Hi there, I'm Heet Jamariya! </h1>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst"/>
@@ -6,15 +8,14 @@
     <img src="https://img.shields.io/badge/Data_Scientist-F28C28?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Scientist"/>
 </p>
 
-<p align="center">
-  ▸ <strong>Data Analyst</strong> | Passionate about turning complex data into actionable insights.
-  <br /> 
-  ▸ Building projects with Python's data stack to solve real-world problems.
-  <br />
-  ▸ Currently learning: <strong>Machine Learning</strong> and <strong>Data Manipulation</strong>.
-  <br />
-  ▸ Open to collaborating on data-driven projects.
-</p>
+---
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>▸ <strong>Data Analyst</strong> specializing in the Python ecosystem (Pandas, NumPy, Scikit-learn).</li>
+  <li>▸ Experienced in transforming raw data into compelling visualizations and actionable reports.</li>
+  <li>▸ Current focus: Building and deploying end-to-end ML projects.</li>
+  <li>▸ Actively seeking to collaborate on challenging, data-centric projects.</li>
+</ul>
 
 ---
 
