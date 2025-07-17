@@ -56,6 +56,16 @@
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
+    <h3><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4c8.png" width="22"/> <a href="https://github.com/Heet-Jamariya/Strategic_Sales_Report">Strategic Sales Report</a></h3>
+    <p>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> A self-service analytics dashboard in Apache Superset to track sales KPIs and revenue trends for an auction business. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> <strong>Tech Used:</strong> Apache Superset, SQL, Figma. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> <strong>View Project:</strong> <a href="https://github.com/Heet-Jamariya/Strategic_Sales_Report">Strategic Sales Report</a> <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4c4.png" width="18"/> Read the full project breakdown in the <a href="https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/CASE_STUDY.md"><strong>Case Study</strong></a>.
+    </p>
+  </li>
+  <br/>
+  <li>
     <h3><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3cf.png" width="22"/> <a href="https://github.com/Heet-Jamariya/IPL_2022">IPL 2022 Season Data Analysis</a></h3>
     <p>
       <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> An in-depth EDA of the IPL 2022 season dataset, exploring team performance, toss impact, and key player statistics. <br/>
