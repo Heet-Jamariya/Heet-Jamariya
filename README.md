@@ -54,20 +54,34 @@
 
 ## 📌 Featured Projects
 
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3cf.png" width="22"/> [IPL 2022 Season Data Analysis](https://github.com/Heet-Jamariya/IPL_2022)
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> An in-depth EDA of the IPL 2022 season dataset, exploring team performance, toss impact, and key player statistics.  
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> **Tech Used:** Python, Pandas, Matplotlib, Seaborn.  
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> **View Project:** [IPL 2022 Project](https://github.com/Heet-Jamariya/IPL_2022)
-
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f365.png" width="22"/> [Anime Data Extraction and Analysis](https://github.com/Heet-Jamariya/Anime-Project)
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> Data cleaning and EDA on an anime dataset, focusing on parsing text to extract and analyze episode counts, airing dates, and runtimes.  
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> **Tech Used:** Python, Pandas, NumPy.  
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> **View Project:** [Anime Project](https://github.com/Heet-Jamariya/Anime-Project)
-
-### <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f30d.png" width="22"/> [Countries Data Analysis Project](https://github.com/Heet-Jamariya/Countries_Project)
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> An EDA on a dataset of 194 countries, uncovering insights into global demographics, politics, and geography.
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> **Tech Used:** Python, Pandas, NumPy.
-> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> **View Project:** [Countries Project](https://github.com/Heet-Jamariya/Countries_Project)
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <h3><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3cf.png" width="22"/> <a href="https://github.com/Heet-Jamariya/IPL_2022">IPL 2022 Season Data Analysis</a></h3>
+    <p>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> An in-depth EDA of the IPL 2022 season dataset, exploring team performance, toss impact, and key player statistics. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> <strong>Tech Used:</strong> Python, Pandas, Matplotlib, Seaborn. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> <strong>View Project:</strong> <a href="https://github.com/Heet-Jamariya/IPL_2022">IPL 2022 Project</a>
+    </p>
+  </li>
+  <br/>
+  <li>
+    <h3><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f365.png" width="22"/> <a href="https://github.com/Heet-Jamariya/Anime-Project">Anime Data Extraction and Analysis</a></h3>
+    <p>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> Data cleaning and EDA on an anime dataset, focusing on parsing text to extract and analyze episode counts, airing dates, and runtimes. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> <strong>Tech Used:</strong> Python, Pandas, NumPy. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> <strong>View Project:</strong> <a href="https://github.com/Heet-Jamariya/Anime-Project">Anime Project</a>
+    </p>
+  </li>
+  <br/>
+  <li>
+    <h3><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f30d.png" width="22"/> <a href="https://github.com/Heet-Jamariya/Countries_Project">Countries Data Analysis Project</a></h3>
+    <p>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> An EDA on a dataset of 194 countries, uncovering insights into global demographics, politics, and geography. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> <strong>Tech Used:</strong> Python, Pandas, NumPy. <br/>
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> <strong>View Project:</strong> <a href="https://github.com/Heet-Jamariya/Countries_Project">Countries Project</a>
+    </p>
+  </li>
+</ul>
 
 ---
 
