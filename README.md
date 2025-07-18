@@ -105,6 +105,22 @@
 
 ---
 
+## 📜 Certificates
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><a href="https://moonshot.scaler.com/s/sl/xoKdk8QlWa?_gl=1*8n5oc*_gcl_au*NjYwMDEzMTYwLjE3NTE0NzIwMDQ.*FPAU*NjYwMDEzMTYwLjE3NTE0NzIwMDQ.*_ga*MTIzOTExNzY2OS4xNjg4OTI1NDU0*_ga_53S71ZZG1X*czE3NTI4NjMyNjIkbzE2MSRnMSR0MTc1Mjg2MzMwOCRqMTQkbDAkaDE1NzY2MTE4MjE."><strong>SQL Course:</strong> Learn MySQL and Database design course</a></li>
+  <br/>
+  <li><a href="https://moonshot.scaler.com/s/sl/YVNFdJaPnu?_gl=1*itrjdf*_gcl_au*MTcyNDI1NTUxNS4xNzE3Njg4ODI1*FPAU*ODM0ODM2NjUwLjE3MTYxMzc3Mjg.*_ga*MTIzOTExNzY2OS4xNjg4OTI1NDU0*_ga_53S71ZZG1X*MTcyMDcxOTMzMS43MC4xLjE3MjA3MjM1NjEuMC4wLjQ5Mjc1MDExOA.."><strong>Python:</strong> Mastering the Essentials</a></li>
+  <br/>
+  <li><a href="https://drive.google.com/file/d/1UgA0oNp55qXpwkJeqckRw71Vg_Whgq-C/view?usp=sharing"><strong>Management Head:</strong> Management Head of ISTE | SAL</a></li>
+  <br/>
+  <li><a href="https://learners.growthschool.io/certificate/ad22daf1-a875-4dc3-824c-cea1ca768881"><strong>Power BI:</strong> Visualise Data with PowerBI</a></li>
+  <br/>
+  <li><a href="https://drive.google.com/file/d/1aNCACAGD_k9tm_exZUFKWVfM0JgSq_3N/view?usp=sharing"><strong>Probability:</strong> Probability for Data Science</a></li>
+</ul>
+
+---
+
 ## 💬 Let's Connect
 - Ask me about Python, data manipulation, or how I approach solving problems with data.
 - Reach me at **heetjamariya234@gmail.com**
