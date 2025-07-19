@@ -71,7 +71,7 @@
       <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4ca.png" width="18"/> A self-service analytics dashboard in Apache Superset to track sales KPIs and revenue trends for an auction business. <br/>
       <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f680.png" width="18"/> <strong>Tech Used:</strong> Apache Superset, SQL, Figma. <br/>
       <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f310.png" width="18"/> <strong>View Project:</strong> <a href="https://github.com/Heet-Jamariya/Strategic_Sales_Report">Strategic Sales Report</a> <br/>
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4c4.png" width="18"/> Read the full project breakdown in the <a href="https://github.com/Heet-Jamariya/Strategic_Sales_Report/blob/main/CASE_STUDY.md"><strong>Case Study</strong></a>.
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4c4.png" width="18"/> Read the full project breakdown in the <a href="https://docs.google.com/document/d/10xZssYWOhIzqghM30zAqdMFC5BcLZPhLcYrfeo4dLxM/edit?usp=sharing"><strong>Case Study document</strong></a>.
     </p>
   </li>
   <br/>
